@@ -4,7 +4,7 @@ First, download this repo either through `git clone` or by clicking the `Clone o
 
 ## Jupyter Installation
 
-We are assuming you have some sort of python set up on your own personal computer. If not, yo should go here and download anaconda:
+We are assuming you have some sort of python set up on your own personal computer. If not, you should go here and download anaconda:
 
 https://www.anaconda.com/distribution/
 
